@@ -1,16 +1,36 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome&desc=minji's%20github%20profile&descAlign=70&descAlignY=65&fontSize=90)
 
-<!--
-**mingdolacucudas/mingdolacucudas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 
+프론트엔드를 공부하고 있는 전민지 입니다
+- ✨Magic ✨
+✉️ Email ✉️
+minji799@gmai.com
 
-Here are some ideas to get you started:
+💻 blog 💻 
+https://velog.io/@mingdolacucudas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack 🛠
+-used as main- 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Amazon CloudFront-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>&nbsp;
+html css React Redux AwsS3 styledcomponest
+
+-used at least once-
+react-query Aws github actions cloudfront jQuery python flask  
+
+
+
+
+
+
+✏️learning✏️
+React testing-library  
+## _The Last Markdown Editor, Ever_
+
+
+![migdolacucudas's github stats](https://github-readme-stats.vercel.app/api?username=mingdolacucudas&show_icons=true)
+
