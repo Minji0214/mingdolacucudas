@@ -1,6 +1,7 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello&desc=minji's%20github%20profile&descAlign=70&descAlignY=65&fontSize=90)
 
-<div align="center">
+
 ✨ 안녕하세요! ✨<br>
 프론트엔드를 공부하고 있는 전민지 입니다.<br>
 다양한 프로젝트들을 만들면서 취업준비중 입니다!
